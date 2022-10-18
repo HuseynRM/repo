@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap');
+.icondiv1 {
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 130%;
+    height: 235px;
+    margin-top: 20px;
+}
+
+.icondiv2 {
+    margin-left: 105px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 130%;
+    height: 235px;
+    margin-top: 20px;
+}
+
+.icondiv3 {
+    margin-left: 205px;
+    background: #FFFFFF;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    width: 130%;
+    height: 235px;
+    margin-top: 20px;
+}
+
+.iconh {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 101.38%;
+    /* or 56px */
+    color: #000000;
+}
